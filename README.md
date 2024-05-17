@@ -24,7 +24,7 @@ Replace "icon.png" with the path to your desired icon file.
 
 Run the script:
 ```bash
-python keystroke_logger.py
+python keylogger.py
 ```
 Auto-start on System Startup (Windows)
 After running the script once, a shortcut named KeystrokeLogger.lnk will be created in the Windows startup folder.
