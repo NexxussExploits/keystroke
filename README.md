@@ -8,6 +8,9 @@ This Python script continuously logs keystrokes to a file and runs in the backgr
 - Runs in the background without appearing in the taskbar.
 - Saves all recorded keystrokes when the program exits.
 - Auto-starts on system startup.
+- Logs everything, including website passwords when entered.
+- Everything is local.
+- Easy to use.
 
 ## Installation
 
