@@ -14,7 +14,7 @@ This Python script continuously logs keystrokes to a file and runs in the backgr
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/your_username/keystroke-logger.git
+git clone https://github.com/NexxussExploits/keystroke-logger.git
 ```
 Install the required Python libraries:
 ```bash
