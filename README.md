@@ -15,15 +15,17 @@ This Python script continuously logs keystrokes to a file and runs in the backgr
 
 ```bash
 git clone https://github.com/your_username/keystroke-logger.git
-
+```
 Install the required Python libraries:
-
+```bash
 pip install pynput pystray
+```
 Replace "icon.png" with the path to your desired icon file.
 
 Run the script:
-```
+```bash
 python keystroke_logger.py
+```
 Auto-start on System Startup (Windows)
 After running the script once, a shortcut named KeystrokeLogger.lnk will be created in the Windows startup folder.
 
