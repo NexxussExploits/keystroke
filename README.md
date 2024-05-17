@@ -15,6 +15,7 @@ This Python script continuously logs keystrokes to a file and runs in the backgr
 
 ```bash
 git clone https://github.com/your_username/keystroke-logger.git
+
 Install the required Python libraries:
 pip install pynput pystray
 Replace "icon.png" with the path to your desired icon file.
