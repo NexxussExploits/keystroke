@@ -56,3 +56,5 @@ Click "OK" on all windows to save your changes.
 Restart your command prompt: After making these changes, close and reopen your command prompt or terminal window. Now you should be able to use pip without encountering the "not recognized" error.
 
 After completing these steps, running pip install pynput pystray should work as expected. Let me know if you encounter any issues!
+
+#REMEMBER THIS IS FOR EDUCATIONAL PURPOSES ONLY. ANY HARM CAUSED IS NOT MY FAULT AND YOU CAN BE PUNISHED BY LAW IF USED INPROPERLY.
