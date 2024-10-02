@@ -1,10 +1,10 @@
 # Keystroke Logger (Educational Purposes)
 
-This Python script continuously logs keystrokes to a file and runs in the background without appearing in the taskbar. It saves all recorded keystrokes to `keystrokes.txt` when the program exits. Additionally, it sets up auto-startup on system startup.
+This Python script continuously logs keystrokes to a file and runs in the background without appearing in the taskbar. It saves all recorded keystrokes to `keystrokes.log` when the program exits. Additionally, it sets up auto-startup on system startup.
 
 ## Features
 
-- Logs all keystrokes to `keystrokes.txt`.
+- Logs all keystrokes to `keystrokes.log`.
 - Runs in the background without appearing in the taskbar.
 - Saves all recorded keystrokes when the program exits.
 - Auto-starts on system startup.
